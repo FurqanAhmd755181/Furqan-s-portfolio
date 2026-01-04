@@ -41,7 +41,7 @@ const Profile = () => {
         <div className="flex items-center space-x-2">
           <MapPin className="w-6 h-6 text-yellow-400" />
           <p>Location:</p>
-          <p className="text-sm text-gray-300">Tehsil kabal swat</p>
+          <p className="text-sm text-gray-300">Lahore, Pakistan</p>
         </div>
       </div>
 
